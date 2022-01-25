@@ -1,0 +1,17 @@
+# Default ignored files
+Thumbs.db
+.DS_Store
+.idea/*
+.idea/codeStyles/*
+*.iml
+/shelf/
+/.idea/workspace.xml
+
+# Common IntelliJ IDEA settings that shall be shared
+
+!.idea/compiler.xml
+!.idea/encodings.xml
+!.idea/saveactions_settings.xml
+!.idea/codeStyles
+!.idea/codeStyles/codeStyleConfig.xml
+!.idea/codeStyles/Project.xml
